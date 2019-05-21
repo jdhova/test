@@ -28,13 +28,12 @@ export default function resume() {
         <div className="row item">
           <div className="twelve columns">
             <h3>Rotterdam Business School</h3>
-            <p className="info">Pre-Masters  Logistics and Supply Chain Managament <span>•</span> <em className="date">Feb 2017</em></p>
+            <p className="info">Pre-Masters  Finance and Accounting <span>•</span> <em className="date">Feb 2017</em></p>
             <p>
-              The first part of my premasters focused on Financial Accounting where I learnt the basics
-              of accounting and finance, FIFO and LIFO.
+            The first part of my premasters focused on Financial Accounting where I learnt the basics
+              of Financial Accounting, FIFO and LIFO etc.
               <br></br>
-              The second part ofmy premasters focused on Logistics and Supply Chain managament where 
-              i learnt the basics of  Logistics and how Supply chain can be  implemented efficiently. 
+              Other modules during my pre masters also focued on the fundermentals and basics of Logistics and Supply Chain Managaement
             </p>
           </div>
         </div> {/* item end */}
