@@ -11,9 +11,10 @@ export default function about() {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p> I am a Full Stack web developer based in Amsterdam NL, I have been developing with React/Redux and Node.js
-                for more than 1 year. I enjoy coding and i believe web develoment is all about bringing
-                ideas and imaginations to reality. 
+            <p> Expert freelance web developer, and I am looking to leverage my wealth of 
+              knowledge and experience in designing and developing web applications 
+              with basic techniques like HTML, CSS, JavaScript, and Wordpress. 
+              I also design build and deploy more web applications on GIT and Heroku. 
             </p>
             <div className="row">
               <div className="columns contact-details">
