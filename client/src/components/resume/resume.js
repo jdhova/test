@@ -19,9 +19,13 @@ export default function resume() {
             <p className="info">Master in Facility and Real Estate Management <br></br> Master Thesis 'Facilitating the way Cloud personnel work in the cloud<span>•</span> <em className="date">Feb 2019</em></p>
             
             <p>
-              My Master Thesis focused on facilitating the way cloud personnel work in the cloud.
-              This research focused on how the latest technologies like Artificial Intelligence, Machine and Deep Learning
-              facilitate the way ICT and FREM personnel work in the cloud.
+            • Wrote a thesis on the topic “Facilitating the Way Cloud Personnel Work in
+            the Cloud.”. This thesis was aimed at facilitating the way cloud personnel
+            works in the cloud from three platforms, namely: SAAS, PAAS, and IAAS.
+            
+            • Thesis research also covered IT services like Big data, Artificial
+            intelligence, Machine learning, Deep learning, Serverless computing,
+            and Block chain technology
             </p>
           </div>
         </div> {/* item end */}
@@ -48,12 +52,11 @@ export default function resume() {
       <div className="nine columns main-col">
         <div className="row item">
           <div className="twelve columns">
-            <h3>Martian Network</h3>
-            <p className="info">Front End Developer <span>•</span> <em className="date">Feb 2019 - Present</em></p>
+            <h3>Lajok BV</h3>
+            <p className="info">Free Lance Web Developer <span>•</span> <em className="date">Aug 2019 - Present</em></p>
             <p>
-            Currently collaborating with developers and UX designers in building a new company website.
-
-            Currently collaborating with back end developers,  designers and block chain engineers in building a full stack application which is integrated with Blockchain Technology. 
+            Designed Built and Deployed Web Application with basic technologies like
+              HTML,CSS and JavaScript
             </p>
           </div>
         </div> {/* item end */}
@@ -62,9 +65,16 @@ export default function resume() {
             <h3>Iron Hack Amsterdam</h3>
             <p className="info">Front End Developer <span>•</span> <em className="date">Oct 2018 - February 2019</em></p>
             <p>
-             Designed and developed full stack property value search web application with HTML CSS, Express.JS, Node.JS, MongoDB and, Zillow API <br></br>
+            • Designed and developed a full-stack property valuation search web
+              application with HTML CSS, Express.JS, Node.JS, MongoDB, and Zillow
+              API.
 
-             Designed and developed full stack movie reviews  web application with React.JS, Express.JS, Node.JS, MongoDB (database).  
+              • Designed and developed Full Stack Movie Reviews and database Web
+              Application with React.JS, Express.JS, Node.JS, MongoDB (Database).
+              • Designed and developed music back end database with Spotify API
+              (Node.JS)
+
+              • Deployed full-stack React.js applications.
 
             </p>
           </div>
